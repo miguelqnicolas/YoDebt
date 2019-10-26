@@ -24,6 +24,16 @@ header a {
     color: #222233;
 }
 
+header div {
+    display: flex;
+    align-items: center;
+}
+
+header div img {
+    height: 2.5rem;
+    margin-right: 0.5rem;
+}
+
 header nav {
     width: 20%;
     display: flex;
@@ -76,7 +86,7 @@ main {
 }
 
 .first-section img {
-    width: 50%;
+    width: 60%;
 }
 
 footer {
